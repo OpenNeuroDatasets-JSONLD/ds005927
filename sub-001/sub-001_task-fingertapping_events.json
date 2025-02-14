@@ -1,0 +1,17 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event, same time reference as the data"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset) in seconds."
+    },
+    "event_name": {
+        "Description": "Name of the event, one of start_experiment, start_rest, start_block, start_trial, start_iti."
+    },
+    "block_type": {
+        "Description": "Primary categorisation of each block: left, or right"
+    },
+    "trial_type": {
+        "Description": "Primary categorisation of each trial: index, middle, ring, pinky"
+    }
+}

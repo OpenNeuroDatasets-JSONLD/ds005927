@@ -1,0 +1,12 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event. Time reference is the same as for the nirs data"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset) in seconds."
+    },
+    "event_name": {"Description": "Name of event, one of start_experiment, start_rest, start_block"},
+    "block_type": {
+        "Description": "Primary categorisation of each block: story, silence or noise"
+    }
+}
